@@ -1,7 +1,7 @@
 Vue精选
 ===
 
-| 名称        | 组件功能描述    |  demo  |
+| 名称       | 组件功能描述    |  demo  |
 | --------   | -----:   | :----: |
 | [vue](https://github.com/ustbhuangyi/vue-analysis) | vue源码揭秘 |   demo    |
 | [vue-xlsx](https://www.jianshu.com/p/44348319ccde) | excel表格   |   demo    |
