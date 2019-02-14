@@ -1,6 +1,12 @@
 Vue精选
 ===
 
+| 名称        | 组件功能描述    |  demo  |
+| --------   | -----:   | :----: |
+|  [vue源码揭秘](https://github.com/ustbhuangyi/vue-analysis)       | $1      |   5    |
+| 苹果        | $1      |   6    |
+| 草莓        | $1      |   7    |
+
 <table>
     <tr>
         <th><a href="https://github.com/ustbhuangyi/vue-analysis">vue源码揭秘</a></th>
