@@ -14,6 +14,7 @@ Vue精选
 |[vue-验证码](https://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650585950&idx=1&sn=b2566c755fb28f8b3b174635d32d3f9a&chksm=8891ab7abfe6226c9b20c3e80b132252162eb59403f46c3ee793dffc40b4d01c781a80144532&mpshare=1&scene=1&srcid=1218HUiGGbKIPTHQ99Lx6Vld&rd2werd=1#wechat_redirect) | 验证码输入组件 |demo|
 |[vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)| 后台管理系统 |demo|
 |[snabbdom](https://github.com/snabbdom/snabbdom)| vue虚拟dom的来源 |demo|
+|[mpvue](https://github.com/Meituan-Dianping/mpvue)| 基于 Vue.js 的小程序开发框架 |demo|
 
 <table>
     <tr>
