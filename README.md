@@ -15,6 +15,7 @@ Vue精选
 |[vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)| 后台管理系统 |demo|
 |[snabbdom](https://github.com/snabbdom/snabbdom)| vue虚拟dom的来源 |demo|
 |[mpvue](https://github.com/Meituan-Dianping/mpvue)| 基于 Vue.js 的小程序开发框架 |demo|
+|[electron](https://github.com/electron/electron)|vue桌面应用程序|demo|
 
 <table>
     <tr>
