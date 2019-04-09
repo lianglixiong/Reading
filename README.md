@@ -25,6 +25,11 @@ Vue精选
 | --------   | -----:   | :----: |
 |[layabox](https://ldc.layabox.com/doc/?nav=zh-as-0-3-0)|HTML5游戏引擎(可以用于应用软件、广告、营销、教育等众多领域)|demo|
 
+前端自动化集成工具
+===
+
+|[webpack](https://chenyiqiao.gitbooks.io/webpack/content/tutorial&examples.html)|前端自动化构建工具|demo|
+
 HTML5
 ===
 
