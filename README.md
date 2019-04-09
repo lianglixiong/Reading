@@ -32,6 +32,7 @@ Vue精选
 | --------   | -----:   | :----: |
 |[webpack](https://chenyiqiao.gitbooks.io/webpack/content/tutorial&examples.html)|前端自动化构建工具|demo|
 |[webpack](https://www.webpackjs.com/concepts/)|中文官网|demo|
+|[gulp](https://www.gulpjs.com.cn/)|中文官网|demo|
 
 HTML5
 ===
