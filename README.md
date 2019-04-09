@@ -31,6 +31,7 @@ Vue精选
 |名称|组件功能描述|demo|
 | --------   | -----:   | :----: |
 |[webpack](https://chenyiqiao.gitbooks.io/webpack/content/tutorial&examples.html)|前端自动化构建工具|demo|
+|[webpack](https://www.webpackjs.com/concepts/)|中文官网|demo|
 
 HTML5
 ===
