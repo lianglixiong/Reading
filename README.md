@@ -31,6 +31,8 @@ HTML5
 |名称|组件功能描述|demo|
 | --------   | -----:   | :----: |
 |[电子文档](https://github.com/wangleihd/freeBook-H5)|HTML5等相关技术书籍|demo|
+|[大厂文档](https://github.com/putaoshu/fe-dev-bookmarks)|腾讯京东等技术期刊|demo|
+|[前端开发集成](https://github.com/putaoshu/jdf)|京东前端开发集成方案|demo|
 <table>
     <tr>
         <th><a href="">待添加</a></th>
