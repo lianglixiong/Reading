@@ -28,6 +28,8 @@ Vue精选
 前端自动化集成工具
 ===
 
+|名称|组件功能描述|demo|
+| --------   | -----:   | :----: |
 |[webpack](https://chenyiqiao.gitbooks.io/webpack/content/tutorial&examples.html)|前端自动化构建工具|demo|
 
 HTML5
