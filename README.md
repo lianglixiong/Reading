@@ -25,6 +25,12 @@ Vue精选
 | --------   | -----:   | :----: |
 |[layabox](https://ldc.layabox.com/doc/?nav=zh-as-0-3-0)|HTML5游戏引擎(可以用于应用软件、广告、营销、教育等众多领域)|demo|
 
+后台管理系统UI
+
+|名称|组件功能描述|demo|
+| --------   | -----:   | :----: |
+|[ace](https://github.com/bopoda/ace)|Bootstrap后台模板 aceAdmin|demo|
+
 前端自动化集成工具
 ===
 
